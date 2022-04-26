@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\admin\\js",
+    "\\admin\\ws",
+    "\\customer",
+    "\\customer\\js",
+    "\\DAL",
+    "\\login&register",
+    "\\login&register\\class",
+    "\\login&register\\js",
+    "\\login&register\\ws"
+  ],
+  "SelectedNode": "\\login&register\\js\\register.js",
+  "PreviewInSolutionExplorer": false
+}
